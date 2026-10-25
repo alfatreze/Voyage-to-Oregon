@@ -33,4 +33,4 @@ Please [open an issue](https://github.com/alfatreze/Voyage-to-Oregon/issues) wit
 
 By **alfatreze**. If you would like to support development: [Buy Alfatreze a Coffee](https://buymeacoffee.com/alfatreze).
 
-Release-specific test terms and third-party notices accompany each download. Free access to a test build does not make its game source or artwork open source.
+The [community-test terms](TEST_TERMS.md) permit testing, screenshots/video and redistribution of unchanged release ZIPs, credited to alfatreze. Third-party notices accompany each download and retain their own terms. Free access to a test build does not make its game source or artwork open source.
