@@ -23,6 +23,8 @@ Screenshots use the game's renderer at its native 320×288 resolution. They show
 
 The first community-test download is being prepared. Available builds will appear under [Releases](https://github.com/alfatreze/Voyage-to-Oregon/releases); follow [installation and controls](INSTRUCTIONS.md) for each published build. Its release notes will identify the tested build, device requirements and known issues. This repository contains player documentation and test releases.
 
+The core uses openfpgaOS OS25 with Analogizer included. The game runs at 320×288. Analogizer-specific hardware options are inherited from the runtime; adapter operation has not yet been verified for this game.
+
 The game is not an official MECC or Analogue release. Pocket save states and sleep/resume are not supported. Use the game's save slots and normal Pocket menu Quit.
 
 ## Feedback
@@ -33,4 +35,4 @@ Please [open an issue](https://github.com/alfatreze/Voyage-to-Oregon/issues) wit
 
 By **alfatreze**. If you would like to support development: [Buy Alfatreze a Coffee](https://buymeacoffee.com/alfatreze).
 
-The [community-test terms](TEST_TERMS.md) permit testing, screenshots/video and redistribution of unchanged release ZIPs, credited to alfatreze. Third-party notices accompany each download and retain their own terms. Free access to a test build does not make its game source or artwork open source.
+The [community-test terms](TEST_TERMS.md) permit testing, screenshots/video and redistribution of unchanged release ZIPs, credited to alfatreze. See [third-party components and licenses](THIRD_PARTY.md), including Analogizer’s GPL-covered components. Applicable notices and matching third-party source access accompany each public binary release. Free access to a test build does not make its game source or artwork open source.
